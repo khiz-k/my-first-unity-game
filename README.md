@@ -1,3 +1,3 @@
 ## Go Karting
 
-watch demo.mp4
+![Website example](/html-css-js-jquery/go-karting.gif)
